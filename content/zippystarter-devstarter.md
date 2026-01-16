@@ -1,20 +1,16 @@
 ---
-title: Devstarter - Portfolio Template
-
+title: Devstarter - Developer Portfolio Template
 author: zippystarter
-avatarUrl: 'https://avatars.githubusercontent.com/u/203802193?s=48&v=4'
-createdAt: '2026-01-02T14:00:00.000Z'
+avatarUrl: https://avatars.githubusercontent.com/u/203802193?s=48&v=4
+createdAt: '2026-01-13T00:00:00.000Z'
 demoUrl: 'https://zippystarter.com/templates/devstarter'
 description: >-
   A bold, cyberpunk-inspired one-page developer portfolio template built with
   Next.js 16, React 19, Tailwind CSS 4, and shadcn/ui. Features a striking neon
-  aesthetic with sections for projects, skills, blog posts, and contact. Fully
-  responsive with dark and light modes included.
+  aesthetic with sections for projects, skills, blog posts, and contact.
+  Fully responsive with dark and light modes included.
 distribution: open-source
 githubUrl: 'https://github.com/zippystarter/template-devstarter'
-lastCommitOnDefaultBranch: '2026-01-12T08:17:33Z'
-stars: 3
-themeKey: zippystarter-devstarter
 category:
   - react
   - nextjs
