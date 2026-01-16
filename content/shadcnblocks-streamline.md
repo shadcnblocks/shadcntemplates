@@ -1,18 +1,15 @@
 ---
-affiliateUrl: https://www.shadcnblocks.com/template/streamline
-author: shadcnblockscom
-avatarUrl: https://deifkwefumgah.cloudfront.net/avatars/thumbnail/shadcnblockscom-shadcn-blocks-avatar-medium.webp
+author: shadcnblocks
+avatarUrl: >-
+  https://deifkwefumgah.cloudfront.net/avatars/thumbnail/shadcnblockscom-shadcn-blocks-avatar-medium.webp
 createdAt: '2025-03-07T02:03:51.037Z'
-demoUrl: https://streamline-nextjs-template.vercel.app/
+demoUrl: 'https://streamline-nextjs-template.vercel.app/'
 description: >-
   A minimal, yet unique, landing page template built with Nextjs 15, shadcn/ui
   and Tailwind 4
 distribution: premium
-featured: true
-price: 79
-ranking: 31
-themeKey: shadcnblockscom-streamline
-title: Streamline - Nextjs shadcn/ui Template
+themeKey: shadcnblocks-streamline
+title: Streamline - Nextjs Template
 category:
   - react
   - nextjs
@@ -21,6 +18,8 @@ category:
   - marketing
   - business
   - template
+price: 79
+affiliateUrl: 'https://www.shadcnblocks.com/template/streamline'
 ---
 ## Overview
 Streamline is a beautifully designed landing page template that combines the powerful features of Nextjs 15, shadcn/ui, and Tailwind 4. This template is not only minimalistic but also unique, making it an ideal choice for developers looking to create modern and aesthetically pleasing websites. Its seamless integration of various technologies ensures a responsive and smooth user experience, while allowing for extensive customization.

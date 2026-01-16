@@ -1,5 +1,5 @@
 ---
-author: shadcn
+author: shadcn-ui
 avatarUrl: https://deifkwefumgah.cloudfront.net/avatars/optimized/shadcn-ui-avatar-128.webp
 createdAt: '2024-11-10T05:26:36.162Z'
 demoUrl: 'https://ui.shadcn.com/'
@@ -23,7 +23,6 @@ category:
   - component-library
   - ui-kit
 ---
-
 ## Overview
 
 shadcn/ui is a set of components for React, built on Radix UI and styled with Tailwind CSS. Shadcn redefines how developers use UI component libraries by shifting from traditional npm packages to a **copy-paste** model. This approach gives developers full control over their components while eliminating dependency bloat and update issues. Additionally, shadcn/ui introduces a **component registry**, allowing users to browse, pull, and customize high-quality components effortlessly.

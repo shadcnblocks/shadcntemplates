@@ -16,7 +16,6 @@ category:
   - shadcn-ui
   - react
 ---
-
 ## Overview
 The Next Shadcn Admin Dashboard is a modern and versatile admin dashboard template designed specifically for developers utilizing Next.js 15 and Shadcn UI. This template aims to streamline the process of building admin interfaces by providing an extensive range of prebuilt screens, customizable layouts, and a focus on responsiveness, making it suitable for a variety of applications. With a clear emphasis on usability and aesthetics, the dashboard offers an alternative to traditional admin templates that often feel cluttered and outdated. 
 

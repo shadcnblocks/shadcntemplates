@@ -1,13 +1,14 @@
 ---
 author: jnsahaj
-avatarUrl: https://deifkwefumgah.cloudfront.net/avatars/optimized/jnsahaj-tweakcn-avatar-128.webp
+avatarUrl: >-
+  https://deifkwefumgah.cloudfront.net/avatars/optimized/jnsahaj-tweakcn-avatar-128.webp
 createdAt: '2025-04-23T04:34:57.686Z'
 demoUrl: 'https://tweakcn.com'
 description: A visual no-code theme editor for shadcn/ui components
 distribution: open-source
 githubUrl: 'https://github.com/jnsahaj/tweakcn'
-lastCommitOnDefaultBranch: '2025-08-02T14:41:22.000Z'
-stars: 6452
+lastCommitOnDefaultBranch: '2025-12-23T08:41:16Z'
+stars: 9091
 themeKey: jnsahaj-tweakcn
 title: Tweakcn
 category:

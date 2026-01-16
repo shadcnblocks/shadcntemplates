@@ -1,6 +1,7 @@
 ---
 author: aceternity
-avatarUrl: "https://deifkwefumgah.cloudfront.net/avatars/thumbnail/aceternity-ui-free-avatar-medium.webp?t=1757004673780"
+avatarUrl: >-
+  https://deifkwefumgah.cloudfront.net/avatars/thumbnail/aceternity-ui-free-avatar-medium.webp?t=1757004673780
 createdAt: '2025-03-07T07:11:49.182Z'
 demoUrl: 'https://ui.aceternity.com/?ref=builtatlightspeed'
 description: Popular copy/paste React and tailwind component library.

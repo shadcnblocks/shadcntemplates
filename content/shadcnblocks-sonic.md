@@ -1,15 +1,15 @@
 ---
-author: shadcnblockscom
-avatarUrl: 'https://deifkwefumgah.cloudfront.net/avatars/thumbnail/shadcnblockscom-shadcn-blocks-avatar-medium.webp'
+author: shadcnblocks
+avatarUrl: >-
+  https://deifkwefumgah.cloudfront.net/avatars/thumbnail/shadcnblockscom-shadcn-blocks-avatar-medium.webp
 createdAt: '2025-05-29T00:00:00.000Z'
 demoUrl: 'https://sonic-nextjs-template.vercel.app/?ref=builtatlightspeed'
-affiliateUrl: 'https://www.shadcnblocks.com/template/sonic'
 description: >-
   A modern single product landing page template crafted with Next.js 15,
   shadcn/ui, and Tailwind 4, perfect for showcasing physical or digital products
 distribution: premium
-themeKey: shadcnblockscom-sonic
-title: Sonic - Nextjs Landing Page
+themeKey: shadcnblocks-sonic
+title: Sonic - Nextjs Template
 category:
   - react
   - nextjs
@@ -18,6 +18,7 @@ category:
   - marketing
   - template
 price: 79
+affiliateUrl: 'https://www.shadcnblocks.com/template/sonic'
 ---
 ## Overview
 The Sonic template is a cutting-edge single product landing page solution designed specifically for showcasing both physical and digital products. Built with Next.js 15, shadcn/ui, and Tailwind 4, this template offers a perfect blend of modern design and functionality. Whether you're launching a new product, promoting a digital service, or creating a focused marketing campaign, Sonic provides all the essential components and sections needed to effectively present your offering.

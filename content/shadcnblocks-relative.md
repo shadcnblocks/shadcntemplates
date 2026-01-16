@@ -1,18 +1,15 @@
 ---
-affiliateUrl: https://www.shadcnblocks.com/template/relative?ref=builtatlightspeed
-author: shadcnblockscom
-avatarUrl: https://deifkwefumgah.cloudfront.net/avatars/thumbnail/shadcnblockscom-shadcn-blocks-avatar-medium.webp
+author: shadcnblocks
+avatarUrl: >-
+  https://deifkwefumgah.cloudfront.net/avatars/thumbnail/shadcnblockscom-shadcn-blocks-avatar-medium.webp
 createdAt: '2025-03-07T02:03:51.037Z'
-demoUrl: https://relative-nextjs-template.vercel.app/?ref=builtatlightspeed
+demoUrl: 'https://relative-nextjs-template.vercel.app/?ref=builtatlightspeed'
 description: >-
   A landing page template crafted with Next.js, shadcn/ui, and Tailwind. Perfect
   for quickly launching a marketing site with essential sections.
 distribution: premium
-featured: true
-price: 79
-ranking: 7
-themeKey: shadcnblockscom-relative
-title: Relative - Nextjs shadcn/ui Template
+themeKey: shadcnblocks-relative
+title: Relative - Nextjs Template
 category:
   - react
   - nextjs
@@ -21,6 +18,8 @@ category:
   - marketing
   - business
   - template
+price: 79
+affiliateUrl: 'https://www.shadcnblocks.com/template/relative?ref=builtatlightspeed'
 ---
 ## Overview
 The Relative - Nextjs shadcn/ui Template is a versatile and modern landing page solution tailored for those looking to launch a marketing site efficiently. Built using Next.js, shadcn/ui, and Tailwind, this template embodies a seamless integration of functionality and aesthetics, making it an ideal choice for developers and marketers alike.
