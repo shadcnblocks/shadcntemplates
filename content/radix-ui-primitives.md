@@ -1,17 +1,16 @@
 ---
 author: radix-ui
-avatarUrl: https://deifkwefumgah.cloudfront.net/avatars/optimized/radix-ui-primitives-avatar-128.webp
+avatarUrl: >-
+  https://deifkwefumgah.cloudfront.net/avatars/optimized/radix-ui-primitives-avatar-128.webp
 createdAt: '2023-04-22T11:45:58.163Z'
-demoUrl: https://radix-ui.com/primitives
+demoUrl: 'https://radix-ui.com/primitives'
 description: >-
   Radix Primitives is an open-source UI component library for building
   high-quality, accessible design systems and web apps. Maintained by @workos.
 distribution: open-source
-featured: true
-githubUrl: https://github.com/radix-ui/primitives
-lastCommitOnDefaultBranch: '2025-05-20T15:26:12.000Z'
-ranking: 2
-stars: 17162
+githubUrl: 'https://github.com/radix-ui/primitives'
+lastCommitOnDefaultBranch: '2025-12-17T20:45:51Z'
+stars: 18432
 themeKey: radix-ui-primitives
 title: Radix UI
 category:
@@ -51,8 +50,6 @@ const App = () => {
   );
 };
 ```
-
-For more detailed usage instructions and examples, refer to the [official documentation](radix-ui.com/docs/primitives).
 
 ## Summary
 

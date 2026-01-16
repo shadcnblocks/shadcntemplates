@@ -2,14 +2,14 @@
 author: Vijayabaskar56
 avatarUrl: 'https://avatars.githubusercontent.com/u/84858449?v=4'
 createdAt: '2025-10-07T04:31:46.231Z'
-demoUrl: 'https://tan-form-builder.baskar.dev/'
-description: Tanstack Builder for Form and Table
+demoUrl: 'https://tancn.dev/'
+description: Tanstack form and table generator tool
 distribution: open-source
 githubUrl: 'https://github.com/Vijayabaskar56/tan-builder'
-lastCommitOnDefaultBranch: '2025-10-06T18:32:55Z'
-stars: 196
+lastCommitOnDefaultBranch: '2026-01-01T19:51:52Z'
+stars: 577
 themeKey: vijayabaskar56-tan-builder
-title: Tan Builder
+title: Tancn
 category:
   - react
   - tanstack

@@ -1,13 +1,14 @@
 ---
 author: jln13x
-avatarUrl: https://deifkwefumgah.cloudfront.net/avatars/optimized/jln13x-ui.jln.dev-avatar-128.webp
+avatarUrl: >-
+  https://deifkwefumgah.cloudfront.net/avatars/optimized/jln13x-ui.jln.dev-avatar-128.webp
 createdAt: '2025-08-18T20:09:35.794Z'
 demoUrl: 'https://ui.jln.dev'
 description: '10000+ Themes for shadcn/ui. '
 distribution: open-source
 githubUrl: 'https://github.com/jln13x/ui.jln.dev'
-lastCommitOnDefaultBranch: '2025-04-26T11:15:59Z'
-stars: 1205
+lastCommitOnDefaultBranch: '2026-01-02T10:12:25Z'
+stars: 1279
 themeKey: jln13x-ui.jln.dev
 title: UI.jln.dev
 category:

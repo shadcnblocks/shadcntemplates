@@ -5,9 +5,9 @@ avatarUrl: >-
 createdAt: '2025-03-06T09:29:43.469Z'
 demoUrl: 'https://skiper-ui.com/?ref=builtatlightspeed'
 description: >-
-  Beautifully designed components that you can copy and paste into your apps.
-  Accessible. Customizable. Open Source.
-distribution: free
+  Outstanding and unique react and shadcn/ui components. A selection of rare
+  blocks and components.
+distribution: premium
 themeKey: skiper-ui-skiper-ui
 title: Skiper UI
 category:
@@ -16,6 +16,7 @@ category:
   - tailwind
   - ui-kit
   - block-library
+price: 129
 downloadUrl: 'https://skiper-ui.com/?ref=builtatlightspeed'
 ---
 ## Overview

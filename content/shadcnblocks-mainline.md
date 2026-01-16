@@ -1,6 +1,6 @@
 ---
 affiliateUrl: https://www.shadcnblocks.com/template/mainline?ref=builtatlightspeed
-author: shadcnblockscom
+author: shadcnblocks
 avatarUrl: https://deifkwefumgah.cloudfront.net/avatars/thumbnail/shadcnblockscom-shadcn-blocks-avatar-medium.webp
 createdAt: '2025-03-07T02:03:51.037Z'
 demoUrl: https://mainline-nextjs-template.vercel.app/?ref=builtatlightspeed
@@ -11,8 +11,8 @@ distribution: premium
 featured: true
 price: 79
 ranking: 6
-themeKey: shadcnblockscom-mainline
-title: Mainline - Nextjs shadcn/ui Template
+themeKey: shadcnblocks-mainline
+title: Mainline - Nextjs Template
 category:
   - react
   - nextjs

@@ -1,5 +1,5 @@
 ---
-author: shadcnblockscom
+author: shadcnblocks
 avatarUrl: 'https://deifkwefumgah.cloudfront.net/avatars/thumbnail/shadcnblockscom-shadcn-blocks-avatar-medium.webp'
 createdAt: '2025-07-31T00:00:00.000Z'
 demoUrl: 'https://aspect-nextjs-template.vercel.app'
@@ -8,8 +8,8 @@ description: >-
   A sophisticated corporate template built with Next.js 15, shadcn/ui, and
   Tailwind 4, perfect for creating professional marketing websites
 distribution: premium
-themeKey: shadcnblockscom-aspect
-title: Aspect - Corporate Marketing Template
+themeKey: shadcnblocks-aspect
+title: Aspect - Nextjs Template
 category:
   - react
   - nextjs

@@ -1,5 +1,5 @@
 ---
-author: shadcnblockscom
+author: shadcnblocks
 avatarUrl: 'https://deifkwefumgah.cloudfront.net/avatars/thumbnail/shadcnblockscom-shadcn-blocks-avatar-medium.webp'
 createdAt: '2025-06-07T02:03:51.037Z'
 demoUrl: 'https://www.shadcnblocks.com/admin-dashboard'
@@ -10,7 +10,7 @@ description: >-
   on cutting-edge tech including Next.js 15, React 19, shadcn/ui (canary), and
   Tailwind 4.
 distribution: premium
-themeKey: shadcnblockscom-admin
+themeKey: shadcnblocks-admin
 title: Shadcn Admin Dashboard
 category:
   - react

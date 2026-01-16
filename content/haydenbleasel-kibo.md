@@ -1,6 +1,7 @@
 ---
 author: haydenbleasel
-avatarUrl: https://deifkwefumgah.cloudfront.net/avatars/optimized/haydenbleasel-kibo-avatar-128.webp
+avatarUrl: >-
+  https://deifkwefumgah.cloudfront.net/avatars/optimized/haydenbleasel-kibo-avatar-128.webp
 createdAt: '2025-02-06T00:26:40.702Z'
 demoUrl: 'https://www.kibo-ui.com/'
 description: >-
@@ -8,8 +9,8 @@ description: >-
   components.
 distribution: open-source
 githubUrl: 'https://github.com/haydenbleasel/kibo'
-lastCommitOnDefaultBranch: '2025-05-23T19:27:27.000Z'
-stars: 881
+lastCommitOnDefaultBranch: '2025-12-04T02:02:55Z'
+stars: 3566
 themeKey: haydenbleasel-kibo
 title: Kibo UI
 category:

@@ -1,21 +1,22 @@
 ---
-author: shadcnblockscom
-avatarUrl: 'https://deifkwefumgah.cloudfront.net/avatars/thumbnail/shadcnblockscom-shadcn-blocks-avatar-medium.webp'
+author: shadcnblocks
+avatarUrl: >-
+  https://deifkwefumgah.cloudfront.net/avatars/thumbnail/shadcnblockscom-shadcn-blocks-avatar-medium.webp
 createdAt: '2025-07-31T00:00:00.000Z'
 demoUrl: 'https://scalar-nextjs-template.vercel.app/?ref=builtatlightspeed'
-affiliateUrl: 'https://www.shadcnblocks.com/template/scalar'
 description: >-
   A versatile SaaS and startup template built with Next.js 15, shadcn/ui, and
   Tailwind 4, designed for modern software and technology companies
 distribution: premium
-themeKey: shadcnblockscom-scalar
-title: Scalar - SaaS & Startup Template
+themeKey: shadcnblocks-scalar
+title: Scalar - Nextjs Template
 category:
   - react
   - nextjs
   - tailwind
   - template
 price: 79
+affiliateUrl: 'https://www.shadcnblocks.com/template/scalar'
 ---
 ## Overview
 Scalar is a cutting-edge template crafted specifically for SaaS companies and technology startups. Built on the powerful combination of Next.js 15, shadcn/ui, and Tailwind 4, this template provides everything needed to launch a professional SaaS platform or startup website. It combines modern design principles with practical functionality to help technology companies showcase their products and services effectively.

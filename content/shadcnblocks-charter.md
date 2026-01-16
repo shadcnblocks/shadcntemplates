@@ -1,18 +1,15 @@
 ---
-affiliateUrl: https://www.shadcnblocks.com/template/charter?ref=builtatlightspeed
-author: shadcnblockscom
-avatarUrl: https://deifkwefumgah.cloudfront.net/avatars/thumbnail/shadcnblockscom-shadcn-blocks-avatar-medium.webp
+author: shadcnblocks
+avatarUrl: >-
+  https://deifkwefumgah.cloudfront.net/avatars/thumbnail/shadcnblockscom-shadcn-blocks-avatar-medium.webp
 createdAt: '2025-03-07T02:03:51.037Z'
-demoUrl: https://charter-nextjs-template.vercel.app/?ref=builtatlightspeed
+demoUrl: 'https://charter-nextjs-template.vercel.app/?ref=builtatlightspeed'
 description: >-
   A fintech style app template built on Nextjs with shadcn/ui and Tailwind.
   Perfect for creating a modern and efficient startup or fintech marketing site
 distribution: premium
-featured: true
-price: 79
-ranking: 23
-themeKey: shadcnblockscom-charter
-title: Charter - Nextjs shadcn/ui Template
+themeKey: shadcnblocks-charter
+title: Charter - Nextjs Template
 category:
   - react
   - nextjs
@@ -21,6 +18,8 @@ category:
   - marketing
   - business
   - template
+price: 79
+affiliateUrl: 'https://www.shadcnblocks.com/template/charter?ref=builtatlightspeed'
 ---
 ## Overview
 Charter is an impressive fintech-style app template skillfully crafted with Next.js, shadcn/ui, and Tailwind CSS. This template emerges as an ideal choice for startups aiming to establish a modern and efficient online presence, especially in the financial technology sector. With its clean design and customizable features, Charter enables creators to build engaging marketing sites that draw in users while delivering a seamless experience.
