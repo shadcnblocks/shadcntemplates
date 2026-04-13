@@ -2,7 +2,7 @@
 author: abderrahimghazali
 avatarUrl: https://avatars.githubusercontent.com/u/abderrahimghazali
 createdAt: '2026-04-13T00:00:00.000Z'
-demoUrl: ''
+demoUrl: https://shadcn-fintech.vercel.app
 description: Premium fintech dashboard with 10 pages, drag-and-drop layout, 3D credit cards, live investment ticker, spending heatmap, and dark mode. Built with Next.js 16, shadcn/ui, and Tailwind CSS v4.
 distribution: open-source
 featured: false
