@@ -4,11 +4,11 @@ avatarUrl: 'https://deifkwefumgah.cloudfront.net/avatars/thumbnail/shadcnblocksc
 createdAt: '2025-06-07T02:03:51.037Z'
 demoUrl: 'https://www.shadcnblocks.com/admin-dashboard'
 description: >-
-  The most popular admin dashboard kit for shadcn/ui, trusted by thousands of
-  developers. Packed with essential features like dynamic data tables, advanced
-  filtering, smooth pagination, interactive charts, and contextual menus. Built
-  on cutting-edge tech including Next.js 15, React 19, shadcn/ui (canary), and
-  Tailwind 4.
+  A professional shadcn/ui admin dashboard kit for building modern internal
+  tools, SaaS dashboards, analytics panels, and CMS interfaces. It includes
+  dozens of prebuilt pages, complex data tables, filtering, pagination, charts,
+  context menus, typed data patterns, and monthly updates. Built with Next.js
+  15, React 19, shadcn/ui, and Tailwind 4.
 distribution: premium
 themeKey: shadcnblocks-admin
 title: Shadcn Admin Dashboard
@@ -23,12 +23,14 @@ price: 129
 
 ### The Professional Shadcn Admin Dashboard  
 
-Save hundreds of hours of development with our fully-featured admin kit built for **shadcn/ui (canary)**. Designed with **Next.js 15, React 19, and Tailwind 4**, it includes everything you need to launch a modern, production-ready dashboard fast.  
+Save hundreds of hours of development with our fully-featured admin kit built for **shadcn/ui**. Designed with **Next.js 15, React 19, and Tailwind 4**, it includes everything you need to launch a modern, production-ready dashboard fast.
 
 - Dozens of pre-built pages  
 - Advanced data tables with filtering & pagination  
 - Interactive charts & analytics  
 - Context menus, modals, forms & more  
+- Typed JSON data patterns with Zod schemas
+- Vercel-ready project structure
 - Monthly updates to keep your stack cutting-edge  
 
 
