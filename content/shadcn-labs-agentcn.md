@@ -1,7 +1,7 @@
 ---
 title: agentcn
 author: shadcn-labs
-avatarUrl: https://github.com/shadcn-labs.png
+avatarUrl: https://agentcn.vercel.app/favicon.svg
 createdAt: '2026-06-21T12:00:00.000Z'
 demoUrl: 'https://agentcn.vercel.app'
 description: >-
