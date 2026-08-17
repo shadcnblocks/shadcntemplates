@@ -1,0 +1,32 @@
+---
+title: Shadcn Dashboard - Build admin panel faster with the complete shadcn dashboard kit
+author: shadcndashboard
+avatarUrl: https://shadcndashboard.dev/images/logo/dark-logo.svg
+createdAt: '2026-08-17T00:00:00.000Z' 
+demoUrl: 'https://shadcndashboard.dev/'
+description: >-
+  A production-ready shadcn dashboard kit with reusable UI blocks, components, 
+  and built-in AI prompts for React, Next.js, TypeScript, Tailwind CSS, and Supabase. 
+  Built on Base UI primitives for modern, scalable applications.
+distribution: free 
+category:
+  - react
+  - nextjs
+  - tailwind
+  - admin-template
+  - admin-dashboard
+  - ui-blocks
+  - component-library
+---
+
+## Overview
+
+Explore one of the largest open-source collections of shadcn dashboard kits, UI blocks, and components for React, Next.js, Tailwind CSS, TypeScript, and Supabase. Build production-ready admin panels faster with copy-paste components or install via the shadcn CLI.
+
+## Features
+
+- **Free-to-Use Template** – Access complete, production-ready admin layouts for commercial and personal use without cost.
+- **Admin-Specific Focus** – This entire **collection of resources** is centered around components, blocks, and templates commonly used in dashboard admin interfaces.
+- **React/Next.js Based** – Resources are optimized for modern React and Next.js applications.
+- **Supabase Boilerplate** – Launch your SaaS faster with our production-ready Next.js and Supabase starter kit. Includes Supabase Auth, Prisma ORM, Postgres, and RBAC built on shadcn/ui.
+- ** Ready-to-use prompts** – For dashboards, auth, forms, tables, and charts. Clean, type-safe code every time.
